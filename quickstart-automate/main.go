@@ -19,5 +19,5 @@ import (
 )
 
 func main () {
-  fmt.Println("Hello, first try of cloud run with github!")
+  fmt.Println("Hello, 2nd try trigger!")
 }
